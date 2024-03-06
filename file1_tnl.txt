@@ -1,4 +1,2 @@
  this is my file1
-
- next line add to my file1
-
+ this is my second line from work1
